@@ -1,12 +1,8 @@
-dancer
+Dancer
 ======
 
-Simple demo combining x-gif and plangular
+Simple demo combining x-gif and plangular, making it possible to sync GIFs with music!
 
-What does it do? Plays a GIF tempo sync'd to the music!
+Try it: http://montoya.github.io/dancer/
 
-Demos: 
-- [126 BPM] http://mappdev.com/dancer/ 
-- [86 BPM] http://mappdev.com/dancer/v2.php?gif=http://i.giphy.com/t4DcI9P3dNVoA.gif&track=https://blend.io/project/53ff66983794d6bb7c000e6b 
-
-By @decktonic 
+This project was the genesis of [GIF Jockey](http://gj.giphy.com/), a cross-platform app that lets you play your GIFs like a DJ. 
